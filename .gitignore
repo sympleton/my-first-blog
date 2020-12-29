@@ -22,6 +22,8 @@ db.sqlite3
 .Spotlight-V100
 
 # Windows
+*.tmp
+~*
 Thumbs.db*
 ehthumbs*.db
 [Dd]esktop.ini
